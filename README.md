@@ -15,3 +15,11 @@ Http请求响应与服务：http://httpbin.org/
 可视化算法：https://visualgo.net/zh
 <br>
 技术博客：https://daily-blog.chlinlearn.top/blogs/1
+<br>
+小林x图解计算机：https://xiaolincoding.com/
+<br>
+代码块样式：https://carbon.now.sh/
+<br>
+ASCII码图像：https://lecepin.github.io/rust-wasm-image-ascii/
+<br>
+3D打印：https://www.printables.com/model
