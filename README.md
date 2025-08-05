@@ -25,6 +25,5 @@ ASCII码图像：https://lecepin.github.io/rust-wasm-image-ascii/
 3D打印：https://www.printables.com/model
 <br>
 Windows Coding IOS: https://xtool.sh/tutorials/xtool
-<br>
-Issue
-https://github.com/ayangweb/BongoCat/issues/148#issuecomment-2837380801
+
+
