@@ -27,4 +27,8 @@ ASCII码图像：https://lecepin.github.io/rust-wasm-image-ascii/
 Windows Coding IOS: https://xtool.sh/tutorials/xtool
 <br>
 ASCII-Moon: https://asciimoon.com/
-
+<br>
+FL Studio: 
+https://pan.baidu.com/s/105NdaBpqoaC2pOwP1SLBVQ?pwd=dygd
+https://pan.quark.cn/s/b2e7f9084e40
+https://www.dygdu.com/?s=fl%20studio
