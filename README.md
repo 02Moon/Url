@@ -1,3 +1,7 @@
+url
+
+---
+
 颜色渐变CSS：https://cssgradient.io/
 <br>
 Glass模糊度：https://glassgenerator.netlify.app/#
@@ -35,3 +39,15 @@ https://pan.baidu.com/s/105NdaBpqoaC2pOwP1SLBVQ?pwd=dygd
 https://pan.quark.cn/s/b2e7f9084e40
 <br>
 电音帝国:https://www.dygdu.com/?s=fl%20studio
+
+---
+
+| For Mac              | Url                                            |
+| -------------------- | ---------------------------------------------- |
+| AirBattery           | https://github.com/lihaoyun6/AirBattery        |
+| wanna-clean-keyboard | https://github.com/Nigh/I-wanna-clean-keyboard |
+| 仪表盘               | https://github.com/tw93/Mole                   |
+| 代替Notion           | https://github.com/toeverything/AFFiNE         |
+| OpenStock            | https://github.com/Open-Dev-Society/OpenStock  |
+| 模拟Engine           | https://github.com/FASTSHIFT/engine-sim        |
+| Mac合集              | https://github.com/jaywcjlove/awesome-mac      |
