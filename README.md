@@ -34,4 +34,4 @@ https://pan.baidu.com/s/105NdaBpqoaC2pOwP1SLBVQ?pwd=dygd
 <br>
 https://pan.quark.cn/s/b2e7f9084e40
 <br>
-https://www.dygdu.com/?s=fl%20studio
+电音帝国:https://www.dygdu.com/?s=fl%20studio
