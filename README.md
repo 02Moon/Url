@@ -45,7 +45,6 @@ https://pan.quark.cn/s/b2e7f9084e40
 | For Mac              | Url                                            |
 | -------------------- | ---------------------------------------------- |
 | AirBattery           | https://github.com/lihaoyun6/AirBattery        |
-| wanna-clean-keyboard | https://github.com/Nigh/I-wanna-clean-keyboard |
 | 仪表盘               | https://github.com/tw93/Mole                   |
 | 代替Notion           | https://github.com/toeverything/AFFiNE         |
 | OpenStock            | https://github.com/Open-Dev-Society/OpenStock  |
