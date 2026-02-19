@@ -51,3 +51,4 @@ https://pan.quark.cn/s/b2e7f9084e40
 | 模拟Engine           | https://github.com/FASTSHIFT/engine-sim        |
 | Mac合集              | https://github.com/jaywcjlove/awesome-mac      |
 |状态Monitor           | https://bjango.com/mac/istatmenus/             |
+| 刘海工具             | https://getdroppy.app/                         |
