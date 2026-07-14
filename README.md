@@ -1,17 +1,13 @@
 url
 
 ---
-| Mac App             | Url                                            |
+| Name     | Url                                            |
 | -------------------- | ---------------------------------------------- |
 |颜色渐变CSS | https://cssgradient.io/ |
-<br>
-Glass模糊度：https://glassgenerator.netlify.app/#
-<br>
-背景图：https://coolbackgrounds.io/
-<br>
-CSS在线：https://codepen.io/AllThingsSmitty/pen/ZpbpBB
-<br>
-Web UI组件库：https://layui.dev/
+|Glass模糊度|https://glassgenerator.netlify.app/#|
+|背景图|https://coolbackgrounds.io/|
+|CSS在线|https://codepen.io/AllThingsSmitty/pen/ZpbpBB|
+|Web UI组件库|https://layui.dev/|
 <br>
 Http请求响应与服务：http://httpbin.org/
 <br>
