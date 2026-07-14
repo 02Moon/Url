@@ -2,7 +2,8 @@ url
 
 ---
 
-颜色渐变CSS：https://cssgradient.io/
+颜色渐变CSS
+https://cssgradient.io/
 <br>
 Glass模糊度：https://glassgenerator.netlify.app/#
 <br>
@@ -44,7 +45,7 @@ AI 知识库：https://txtmix.com/
 
 ---
 
-| For Mac              | Url                                            |
+| Mac App             | Url                                            |
 | -------------------- | ---------------------------------------------- |
 | 仪表盘               | https://github.com/tw93/Mole                   |
 | OpenStock            | https://github.com/Open-Dev-Society/OpenStock  |
