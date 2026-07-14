@@ -3,8 +3,8 @@ url
 ---
 | Name     | Url                                            |
 | -------------------- | ---------------------------------------------- |
-|颜色渐变CSS | cssgradient.io/ |
-|Glass模糊度|glassgenerator.netlify.app/#|
+|颜色渐变CSS |[CSS](https://cssgradient.io/)|
+|Glass模糊度|[Glass](https://glassgenerator.netlify.app/#)|
 |背景图|coolbackgrounds.io/|
 |CSS在线|codepen.io/AllThingsSmitty/pen/ZpbpBB|
 |Web UI组件库|layui.dev/|
