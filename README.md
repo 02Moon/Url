@@ -3,49 +3,34 @@ url
 ---
 | Name     | Url                                            |
 | -------------------- | ---------------------------------------------- |
-|颜色渐变CSS | https://cssgradient.io/ |
-|Glass模糊度|https://glassgenerator.netlify.app/#|
-|背景图|https://coolbackgrounds.io/|
-|CSS在线|https://codepen.io/AllThingsSmitty/pen/ZpbpBB|
-|Web UI组件库|https://layui.dev/|
-<br>
-Http请求响应与服务：http://httpbin.org/
-<br>
-开发语言备忘清单：https://wangchujiang.com/reference/
-<br>
-可视化算法：https://visualgo.net/zh
-<br>
-技术博客：https://daily-blog.chlinlearn.top/blogs/1
-<br>
-小林x图解计算机：https://xiaolincoding.com/
-<br>
-代码块样式：https://carbon.now.sh/
-<br>
-ASCII码图像：https://lecepin.github.io/rust-wasm-image-ascii/
-<br>
-3D打印：https://www.printables.com/model
-<br>
-Windows Coding IOS: https://xtool.sh/tutorials/xtool
-<br>
-ASCII-Moon: https://asciimoon.com/
-<br>
-FL Studio:
-<br>
-https://pan.baidu.com/s/105NdaBpqoaC2pOwP1SLBVQ?pwd=dygd
-<br>
-https://pan.quark.cn/s/b2e7f9084e40
-<br>
-电音帝国:https://www.dygdu.com/?s=fl%20studio
-<br>
-AI 知识库：https://txtmix.com/
+|颜色渐变CSS | cssgradient.io/ |
+|Glass模糊度|glassgenerator.netlify.app/#|
+|背景图|coolbackgrounds.io/|
+|CSS在线|codepen.io/AllThingsSmitty/pen/ZpbpBB|
+|Web UI组件库|layui.dev/|
+|Http请求响应与服务|http://httpbin.org/|
+|开发语言备忘清单|wangchujiang.com/reference/|
+|可视化算法|visualgo.net/zh|
+|技术博客|daily-blog.chlinlearn.top/blogs/1|
+|小林x图解计算机|xiaolincoding.com/|
+|代码块样式|carbon.now.sh/|
+|ASCII码图像|lecepin.github.io/rust-wasm-image-ascii/|
+|3D打印|www.printables.com/model|
+|Windows Coding IOS|xtool.sh/tutorials/xtool|
+|ASCII-Moon|asciimoon.com/|
+|FL Studio|pan.baidu.com/s/105NdaBpqoaC2pOwP1SLBVQ?pwd=dygd , pan.quark.cn/s/b2e7f9084e40|
+|电音帝国|www.dygdu.com/?s=fl%20studio|
+|AI 知识库|txtmix.com/|
+|IP查询|http://ip111.cn/|
+|VPN|www.xflash.cloud|
 
 ---
 
 | Mac App             | Url                                            |
 | -------------------- | ---------------------------------------------- |
-| 仪表盘               | https://github.com/tw93/Mole                   |
-| OpenStock            | https://github.com/Open-Dev-Society/OpenStock  |
-| 模拟Engine           | https://github.com/FASTSHIFT/engine-sim        |
-| Mac合集              | https://github.com/jaywcjlove/awesome-mac      |
-|状态Monitor           | https://bjango.com/mac/istatmenus/             |
-| 刘海工具             | https://getdroppy.app/                         |
+| 仪表盘               | github.com/tw93/Mole                   |
+| OpenStock            | github.com/Open-Dev-Society/OpenStock  |
+| 模拟Engine           | github.com/FASTSHIFT/engine-sim        |
+| Mac合集              | github.com/jaywcjlove/awesome-mac      |
+|状态Monitor           | bjango.com/mac/istatmenus/             |
+| 刘海工具             | getdroppy.app/                         |
