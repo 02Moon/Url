@@ -23,7 +23,7 @@ url
 |AI 知识库|[AI](https://txtmix.com/)|
 |IP查询|[IP111](http://ip111.cn/)|
 |VPN|[VPN](https://www.xflash.cloud)|
-|???|.[???](https://investisseur2-0.com/en)|
+|???|[???](https://investisseur2-0.com/en)|
 
 ---
 
