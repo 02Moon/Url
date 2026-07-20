@@ -6,7 +6,7 @@ url
 |颜色渐变CSS |[CSS](https://cssgradient.io/)|
 |Glass模糊度|[Glass](https://glassgenerator.netlify.app/#)|
 |背景图|[BG](https://coolbackgrounds.io/)|
-|CSS在线|[CSS](https://codepen.io/AllThingsSmitty/pen/ZpbpBB)|
+|html_CSS在线Coding|[CSS](https://codepen.io/AllThingsSmitty/pen/ZpbpBB)|
 |Web UI组件库|[UI](https://layui.dev/)|
 |Http请求响应与服务|[HTTP](http://httpbin.org/)|
 |开发语言备忘清单|[备忘清单](https://wangchujiang.com/reference/)|
