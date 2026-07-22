@@ -24,6 +24,7 @@ url
 |IP查询|[IP111](http://ip111.cn/)|
 |VPN|[VPN](https://www.xflash.cloud)|
 |???|[???](https://investisseur2-0.com/en)|
+|Free_API|[API](https://lmspeed.net/zh)|
 
 ---
 
