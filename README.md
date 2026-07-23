@@ -145,7 +145,7 @@ Brain Growth
 Better Icons 自定义图标
 full calender 日历
 Files Progress 字数
-home tab 主页查询
+~~home tab 主页查询~~ Hearth
 Thino
 Style Obmd 字体颜色
 XMind Maps
