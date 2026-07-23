@@ -40,52 +40,112 @@ url
 
 
 ---
-home tab
+
+### 核心插件
+>[!note]+ Callout样式
+> 特殊符号
+> - `+` 展开
+> - `-` 折叠
+> - `>` 无命名
+>
+>>[!note] note
+>
+>>[!abstract] abstract, summary, tldr
+>
+>>[!todo] info, todo
+>
+>>[!tip] tip, hint, important
+>
+>>[!done] success, check, done
+>
+>>[!question] question, help, faq
+>
+>>[!warning] warning, caution, attention
+>
+>>[!failure] failure, fail, missing
+>
+>>[!danger] danger, error
+>
+>>[!bug] bug
+>
+>>[!example] example
+>
+>>[!quote] quote, cite
+
+
+### 第三方管理
+>[!tldr]- Better Tables 
+>表格
+>代码type中输入table即可
+
+>[!tldr]- CSS
+>```CSS
+>/*实时编辑*/
+>.markdown-source-view span.cm-inline-code {
+>	padding:4px;
+>	border-width:1px;
+>	border-style: solid;
+>	border-radius: 5px;
+>	margin-left:5px;
+>	margin-right:5px;	
+>}
+>.theme-light .markdown-source-view span.cm-inline-code {
+>	color:black;
+>	background-color: #f6f1c6;
+>	border-color:#a7a2a2;
+>}
+>.theme-dark .markdown-source-view span.cm-inline-code{
+>	color:black;
+>	background-color: #f6f1c6;
+>	border-color:#7c7575
+>}
+>/*阅读模式*/
+>div p code {
+>	padding:4px;
+>	border-width:1px;
+>	border-style: solid;
+>	border-radius: 5px;
+>	margin-left:5px;
+>	margin-right:5px;	
+>}
+>.theme-light div p code {
+>	color:black;
+>	background-color: #f6f1c6;
+>	border-color:#a7a2a2;
+>}
+>.theme-dark div p code {
+>	color:black;
+>	background-color: #f6f1c6;
+>	border-color:#7c7575	
+>}
+>```
+
+>[!tldr]- rich-table 
+>表格
+>代码type输入 rich-table即可
+
+>[!tldr]- Stonks
+>股票
+>`$: AAPL`
+
+>[!tldr]- Media Grid
+>```media-grid
+>cols: 每行图片数量
+>gap: 间距
+>
+>![[image-1.png]]
+>![[image-2.png]]
+>![[video-1.png]]
+>![[image-3.png]]
+>![[video-2.png]]
+>![[image-4.png]]
+>```
+
+Brain Growth
+Better Icons 自定义图标
+full calender 日历
+Files Progress 字数
+home tab 主页查询
 Thino
-hilo
-Better Tables
-`CSS`
-```CSS
-/*实时编辑*/
-.markdown-source-view span.cm-inline-code {
-	padding:4px;
-	border-width:1px;
-	border-style: solid;
-	border-radius: 5px;
-	margin-left:5px;
-	margin-right:5px;	
-}
-.theme-light .markdown-source-view span.cm-inline-code {
-	color:black;
-	background-color: #f6f1c6;
-	border-color:#a7a2a2;
-}
-.theme-dark .markdown-source-view span.cm-inline-code{
-	color:black;
-	background-color: #f6f1c6;
-	border-color:#7c7575
-}
-/*阅读模式*/
-div p code {
-	padding:4px;
-	border-width:1px;
-	border-style: solid;
-	border-radius: 5px;
-	margin-left:5px;
-	margin-right:5px;	
-}
-.theme-light div p code {
-	color:black;
-	background-color: #f6f1c6;
-	border-color:#a7a2a2;
-}
-.theme-dark div p code {
-	color:black;
-	background-color: #f6f1c6;
-	border-color:#7c7575	
-}
-```
-rich-table
-Files Progress
-Stonks
-Better Icons
+Style Obmd 字体颜色
+XMind Maps
