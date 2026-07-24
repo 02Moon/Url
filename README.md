@@ -141,6 +141,24 @@ url
 >![[image-4.png]]
 >```
 
+>[!tldr]- People Graph
+>```tag
+>---
+>type: person
+>name: Jane Doe
+>photo: 26-Tahoe-Beach-Day.png
+>company: Acme Corp
+>role: Engineer
+>closeness: 8
+>knows:
+>  - "[[John Smith]]"
+>  - "[[Mike Lee]]"
+>  - "[[X1]]"
+>tags:
+>  - people
+>---
+>```
+
 Brain Growth
 Better Icons 自定义图标
 full calender 日历
