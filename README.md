@@ -22,10 +22,9 @@ url
 |AI 知识库|[AI](https://txtmix.com/)|
 |IP查询|[IP111](http://ip111.cn/)|
 |VPN|[VPN](https://www.xflash.cloud)|
-|???|[???](https://investisseur2-0.com/en)|
+|加密货币分析|[???](https://investisseur2-0.com/en)|
 |Free_API|[API](https://lmspeed.net/zh)|
-|GTAV 工具|[洛圣都档案](https://gtacn.org/),[GTA数据库](https://www.antwen.cn/)|
-
+|GTAV 工具|[洛圣都档案](https://gtacn.org/) , [GTA数据库](https://www.antwen.cn/)|
 ---
 | Mac App             | Url                                            |
 | -------------------- | ---------------------------------------------- |
